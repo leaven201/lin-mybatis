@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+  <property name="driverClassName">com.mysql.jdbc.Driver</property>
+  <property name="url">xx</property>
+  <property name="username">xx</property>
+  <property name="password">xx</property>
+</database>
